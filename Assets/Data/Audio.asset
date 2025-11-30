@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cc6bc0ebf56d548846bcb2a39d0631, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  <EncounterOne>k__BackingField:
+    Guid:
+      Data1: -1734766747
+      Data2: 1217139265
+      Data3: -1994499676
+      Data4: -1512562720
+    Path: event:/BGMusic/BGM1
+  <EncounterTwo>k__BackingField:
+    Guid:
+      Data1: 449545148
+      Data2: 1266070074
+      Data3: -933974633
+      Data4: -1358173485
+    Path: event:/BGMusic/BGM2
+  <EncounterThree>k__BackingField:
+    Guid:
+      Data1: -1451478176
+      Data2: 1271001955
+      Data3: -1458446929
+      Data4: -656072257
+    Path: event:/BGMusic/BGM3
+  <Menu>k__BackingField:
+    Guid:
+      Data1: 2066077467
+      Data2: 1339429691
+      Data3: 577756569
+      Data4: -1650372702
+    Path: event:/BGMusic/Menu
+  <PlayerFootsteps>k__BackingField:
+    Guid:
+      Data1: 426484517
+      Data2: 1116672827
+      Data3: -1437644870
+      Data4: 520952981
+    Path: event:/SFX/Player/FX Footsteps
+  <PlayerJump>k__BackingField:
+    Guid:
+      Data1: 129981153
+      Data2: 1309009996
+      Data3: 420792458
+      Data4: -1718572067
+    Path: event:/SFX/Player/FX Jump
+  <PlayerDamaged>k__BackingField:
+    Guid:
+      Data1: 1566609037
+      Data2: 1131305303
+      Data3: -1544946501
+      Data4: 779105551
+    Path: event:/SFX/Player/FX Damage
+  <ShootPerfect>k__BackingField:
+    Guid:
+      Data1: -1655133258
+      Data2: 1250498204
+      Data3: 1331137932
+      Data4: 1507576452
+    Path: event:/SFX/Weapon/FX Gun Perfect
+  <ShootGood>k__BackingField:
+    Guid:
+      Data1: -762228255
+      Data2: 1336593282
+      Data3: -1309644672
+      Data4: -1947294581
+    Path: event:/SFX/Weapon/FX Gun Good
+  <ShootMissed>k__BackingField:
+    Guid:
+      Data1: -790532615
+      Data2: 1267691501
+      Data3: 1706593156
+      Data4: 1215577041
+    Path: event:/SFX/Weapon/FX Gun Bad
+  <ShootSpecialGood>k__BackingField:
+    Guid:
+      Data1: 1025896016
+      Data2: 1209447080
+      Data3: -19400557
+      Data4: 2040318601
+    Path: event:/SFX/Weapon/FX Railgun Good
+  <ShootSpecialPerfect>k__BackingField:
+    Guid:
+      Data1: -1143058308
+      Data2: 1139473060
+      Data3: -1337268835
+      Data4: 446699355
+    Path: event:/SFX/Weapon/FX Railgun Perfect
+  <PlayerHeal>k__BackingField:
+    Guid:
+      Data1: -385372027
+      Data2: 1183876921
+      Data3: 904965809
+      Data4: -177264311
+    Path: event:/SFX/Player/FX Heal
+  <PlayerDanger>k__BackingField:
+    Guid:
+      Data1: 629617124
+      Data2: 1252737310
+      Data3: 1575384962
+      Data4: -1405655774
+    Path: event:/SFX/Other/FX Danger
+  <LoadCasette>k__BackingField:
+    Guid:
+      Data1: 1778798655
+      Data2: 1199761804
+      Data3: 1983808940
+      Data4: 1606877410
+    Path: event:/SFX/Other/FX Load
+  <UnloadCasette>k__BackingField:
+    Guid:
+      Data1: -192938300
+      Data2: 1122613945
+      Data3: 177816252
+      Data4: 490990809
+    Path: event:/SFX/Other/FX Unload
+  <GameOver>k__BackingField:
+    Guid:
+      Data1: 1772149548
+      Data2: 1307546688
+      Data3: -522403924
+      Data4: -1017814968
+    Path: event:/BGMusic/Game Over
+  <Metronome>k__BackingField:
+    Guid:
+      Data1: 156109538
+      Data2: 1197045953
+      Data3: -188561501
+      Data4: 1784684713
+    Path: event:/SFX/Other/FX Metronome
+  <Button>k__BackingField:
+    Guid:
+      Data1: -356886351
+      Data2: 1245812554
+      Data3: -1086059638
+      Data4: 1598823067
+    Path: event:/SFX/Other/Button
+  <MetronomeOnBeat>k__BackingField: 0
+  <MetronomeOnPreBeat>k__BackingField: 0
+  <MetronomeOnPostBeat>k__BackingField: 0
