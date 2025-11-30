@@ -11,4 +11,4 @@ The following packages have been excluded from the source due to their licensing
 - A* Pathfinding Project Pro by Aron Granberg
 
 ## Licensing
-The source including art assets is licenced under the MIT license. This exludes all audio licences have been licensed under all rights reserved license. See LICENSE.md and LICENSE-AUDIO.md for more information.
+The source including art assets is licenced under the MIT license. This exludes all audio licences that have been licensed under all rights reserved license. See LICENSE.md and LICENSE-AUDIO.md for more information.
